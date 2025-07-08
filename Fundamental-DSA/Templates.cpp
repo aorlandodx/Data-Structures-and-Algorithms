@@ -5,6 +5,7 @@
 #include <string>
 using namespace std;
 
+//Make a lexicographical comparison to find the greatest of two values regardless their data type
 template <typename Template>
 Template findMax(Template a, Template b){
     return (a > b) ? a : b;
