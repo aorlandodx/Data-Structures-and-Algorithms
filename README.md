@@ -10,14 +10,40 @@ This repository is intended to:
 - Facilitate learning and sharing with others interested in algorithms and software design.
 
 
-##  Roadmap
-The repository is under active development. Planned additions include:
+##  Syllabus
+The repository is under active development. Planned additions and key topics include:
 
-- More graph algorithms.
-- Complexity analysis notes.
-- Example projects combining multiple data structures.
-- Problem-solving walkthroughs.
-
+```
+├── Object Oriented Programming - OOP
+│   ├── Classes and Objects
+│   |   ├── Attributes and Methods
+│   |   ├── Encapsulation
+│   |   ├── Inheritance
+│   |   |   ├── Polymorphism
+│   |   |   |   ├── Method Overriding (Runtime Polymorphism)
+│   |   |   |   ├── Method Overloading (Compile-time Polymorphism)
+│   |   |   ├── Abstract classes
+│   |   ├── Abstraction
+│   |   |   ├── Interfaces
+│   |   ├── Composition
+│   |   └── Operator Overloading
+├── Fundamental Data Structures and Algorithms - DSA
+|   ├── Templates
+│   ├── Recursion
+│   ├── BigO notation
+│   ├── Search Algorithms
+│   ├── Sort Algorithms
+│   ├── Linked Lists
+│   ├── Doubly Linked list
+│   ├── Queues
+│   ├── Stacks
+│   ├── Graphs
+│   ├── Binary search trees
+│   ├── AVL trees
+│   ├── Heap trees
+│   └── Hash tables
+└── README.md
+```
 
 ## Technologies
 - **Languages:** C++ and Python 
