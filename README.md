@@ -1,4 +1,4 @@
-# Data Structures and fundamental Algorithms practice
+# Data Structures and Algorithms practice
 This repository is a personal collection of notes, implementations, and examples covering fundamental and advanced topics in **Data Structures and Algorithms (DSA)**. It includes a range of concepts from **Object-Oriented Programming (OOP)** principles, to the design and implementation of core data structures, algorithms, and the analysis of their time and **space complexities**. It serves both as a learning reference and a demonstration of various approaches to problem solving and software design.
 
 ## Purpose
