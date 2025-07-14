@@ -32,7 +32,15 @@ The repository is under active development. Planned additions and key topics inc
 │   ├── Recursion
 │   ├── BigO notation
 │   ├── Search Algorithms
+│   |   ├── Sequential search
+│   |   └── Binary Search
 │   ├── Sort Algorithms
+│   |   ├── Swap sort
+│   |   ├── Bubble sort
+│   |   ├── Selection sort
+│   |   ├── Insertion Sort
+│   |   ├── Merge sort
+│   |   └── Quick sort
 │   ├── Linked Lists
 │   ├── Doubly Linked list
 │   ├── Queues
